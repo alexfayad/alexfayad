@@ -1,16 +1,19 @@
-## Hi there 👋
+# Alexander Fayad
 
-<!--
-**alexfayad/alexfayad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer at [Confluent](https://confluent.io) · NYC
 
-Here are some ideas to get you started:
+I build systems that move data and tools that should be free.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+- **[dbex](https://github.com/alexfayad/dbex)** — LSM-tree key-value storage engine in Rust. WAL, compaction, crash recovery.
+- **[opensourcethis](https://opensourcethis.org)** — Mapping software that should be open source. Highlighting what exists, building what doesn't.
+- **MTA Buddy** — NYC transit app built on open MTA data. Real-time arrivals, trip tracking, service alerts.
+
+## Interests
+
+Distributed systems · Storage engines · Stream processing · Open source infrastructure · Civic tech
+
+## Elsewhere
+
+- 🌐 [opensourcethis.org](https://opensourcethis.org)
